@@ -7,7 +7,8 @@ permalink: /about/
 ### Piotr Krasnowski
 Senior Research Engineer \
 Advanced Wireless Technology Lab \
-Huawei Technologies France
+Huawei Technologies France \
+Paris, France
 
 ### Current R&D Interests
 Trustworthy and Verified AI \
