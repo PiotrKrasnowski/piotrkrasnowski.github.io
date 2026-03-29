@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Senior Research Engineer at Huawei Technologies France
+### Senior Research Engineer 
+### at Advanced Wireless Technology Lab
+### of Huawei Technologies France
 
 ### Current R&D Interests
 - Trustworthy and Verified AI
