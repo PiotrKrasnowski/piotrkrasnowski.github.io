@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 ### Piotr Krasnowski
-Senior Research Engineer
-Advanced Wireless Technology Lab
+Senior Research Engineer \
+Advanced Wireless Technology Lab \
 Huawei Technologies France
 
 ### Current R&D Interests
