@@ -16,5 +16,5 @@ Semantic Processing and Communications
 
 ### Contact
 e-mail: p.g.krasnowski@gmail.com \
-
+\
 ![profile picture](/public/img/profile_photo.jpg)
