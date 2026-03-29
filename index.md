@@ -14,10 +14,8 @@ Trustworthy and Verified AI \
 Multi-agent Systems for 6G Networks \
 Semantic Processing and Communications
 
-### Contact
+### Contact and CB
 e-mail: p.g.krasnowski@gmail.com
-
-### CV
 [CV (short version)](/public/img/Krasnowski_CV_2026.pdf) \
 \
 ![profile picture](/public/img/profile_photo.jpg)
