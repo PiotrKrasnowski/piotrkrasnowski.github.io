@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-## Senior Research Engineer at Huawei Technologies France
+### Piotr Krasnowski
+Senior Research Engineer
+Advanced Wireless Technology Lab
+Huawei Technologies France
 
 ### Current R&D Interests
 - Trustworthy and Verified AI
