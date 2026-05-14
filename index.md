@@ -18,4 +18,4 @@ Semantic Processing and Communications
 e-mail: p.g.krasnowski@gmail.com \
 CV: [CV (short version)](/public/img/Krasnowski_CV_2026.pdf) \
 \
-![profile picture](/public/img/profile_photo.jpg)
+![profile picture](/public/img/profile_photo.png)
