@@ -4,7 +4,7 @@ title: About
 ---
 
 ### Piotr Krasnowski
-Senior Research Engineer \
+Principal Research Engineer \
 Advanced Wireless Technology Lab \
 Huawei Technologies France \
 Paris, France
